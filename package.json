@@ -1,0 +1,23 @@
+{
+  "name": "authentication-with-jwt",
+  "version": "1.0.0",
+  "description": "NodeJS authentication with JWT\r - JWT : JSON Web Token is a standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object, JWTs can be signed using a secret key. <br/> \r <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanisamrouche/Authentication-with-JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanisamrouche/Authentication-with-JWT/issues"
+  },
+  "homepage": "https://github.com/yanisamrouche/Authentication-with-JWT#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
